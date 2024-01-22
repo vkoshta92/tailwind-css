@@ -25,6 +25,5 @@ content: ["*.{html,js}"],
 
 ```now enjoy tailwind for prduction in your project```
 
-```  "build":"npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
-npm run build and enjoy ......
-```
+```  "build":"npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"``````
+```npm run build and enjoy ......```
